@@ -2,11 +2,18 @@
 <search>
   <entry>
     <title>tips</title>
-    <url>/2019/10/30/tips/</url>
-    <content><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p>
+    <url>/2019/51631.html</url>
+    <content><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="利用cnpm-下载"><a href="#利用cnpm-下载" class="headerlink" title="利用cnpm 下载"></a>利用cnpm 下载</h2><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p>
 <p>hexo g</p>
 <p>hexo s</p>
 <p>hexo d</p>
+<p>////////</p>
+<p>hexo d -g  一键生成加部署</p>
+<h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>永久唯一链接</p>
+<p>cnpm install hexo-abbrlink –save </p>
+<p>全局配置文件</p>
+<p>permalink: :year/:abbrlink.html </p>
+<p>abbrlink:<br>alg: crc32 # 算法：crc16(default) and crc32<br>rep: hex # 进制：dec(default) and hex </p>
 <h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
 <p> ver 显示当前windows系统的版本号 </p>
 <p> winver 弹框显示当前windows系统信息 </p>
@@ -25,7 +32,7 @@
   </entry>
   <entry>
     <title>git</title>
-    <url>/2019/10/30/git/</url>
+    <url>/2019/undefined.html</url>
     <content><![CDATA[<p>在github上创建仓库</p>
 <p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png" alt="image-20191030110237144"></p>
 <p>进入项目文件夹(安装git的前提下)</p>
@@ -56,7 +63,7 @@
   </entry>
   <entry>
     <title>my first blog!</title>
-    <url>/2019/10/24/my-first-blog/</url>
+    <url>/2019/undefined.html</url>
     <content><![CDATA[<ul>
 <li>QQ:122862896</li>
 <li>Wechat:adore-endless</li>
@@ -73,7 +80,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2019/10/24/hello-world/</url>
+    <url>/2019/undefined.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 

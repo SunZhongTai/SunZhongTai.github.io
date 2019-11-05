@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-04T23:18:29.260Z</updated>
+  <updated>2019-11-05T08:11:37.268Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>tips</title>
-    <link href="http://yoursite.com/2019/10/30/tips/"/>
-    <id>http://yoursite.com/2019/10/30/tips/</id>
+    <link href="http://yoursite.com/2019/51631.html"/>
+    <id>http://yoursite.com/2019/51631.html</id>
     <published>2019-10-30T09:29:57.555Z</published>
-    <updated>2019-11-04T23:18:29.260Z</updated>
+    <updated>2019-11-05T08:11:37.268Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p><p>hexo g</p><p>hexo s</p><p>hexo d</p><h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p><p> ver 显示当前windows系统的版本号 </p><p> winver 弹框显示当前windows系统信息 </p><p>vol 显示当前分区的卷标</p><p> time 显示或设置当前时间 </p><p> date 显示或设置当前日期 </p><p>title 正在做命令行测试 // 修改当前cmd窗口的标题栏文字为正在做命令行测试</p><p> systeminfo 查看当前计算机的综合信息 </p><p> cd  // 显示当前目录 </p><p> cd ..  // 进入父目录 </p><p> dir 显示目录中的内容 </p><p> tree 显示目录结构 </p><p> type 显示文本文件内容 </p><p> more 逐屏的显示文本文件内容 </p>]]></content>
+    <content type="html"><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="利用cnpm-下载"><a href="#利用cnpm-下载" class="headerlink" title="利用cnpm 下载"></a>利用cnpm 下载</h2><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p><p>hexo g</p><p>hexo s</p><p>hexo d</p><p>////////</p><p>hexo d -g  一键生成加部署</p><h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>永久唯一链接</p><p>cnpm install hexo-abbrlink –save </p><p>全局配置文件</p><p>permalink: :year/:abbrlink.html </p><p>abbrlink:<br>alg: crc32 # 算法：crc16(default) and crc32<br>rep: hex # 进制：dec(default) and hex </p><h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p><p> ver 显示当前windows系统的版本号 </p><p> winver 弹框显示当前windows系统信息 </p><p>vol 显示当前分区的卷标</p><p> time 显示或设置当前时间 </p><p> date 显示或设置当前日期 </p><p>title 正在做命令行测试 // 修改当前cmd窗口的标题栏文字为正在做命令行测试</p><p> systeminfo 查看当前计算机的综合信息 </p><p> cd  // 显示当前目录 </p><p> cd ..  // 进入父目录 </p><p> dir 显示目录中的内容 </p><p> tree 显示目录结构 </p><p> type 显示文本文件内容 </p><p> more 逐屏的显示文本文件内容 </p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;TIPS&quot;&gt;&lt;a href=&quot;#TIPS&quot; class=&quot;headerlink&quot; title=&quot;TIPS&quot;&gt;&lt;/a&gt;TIPS&lt;/h1&gt;&lt;h2 id=&quot;Hexo-command&quot;&gt;&lt;a href=&quot;#Hexo-command&quot; class=&quot;headerlink&quot; 
+        &lt;h1 id=&quot;TIPS&quot;&gt;&lt;a href=&quot;#TIPS&quot; class=&quot;headerlink&quot; title=&quot;TIPS&quot;&gt;&lt;/a&gt;TIPS&lt;/h1&gt;&lt;h2 id=&quot;利用cnpm-下载&quot;&gt;&lt;a href=&quot;#利用cnpm-下载&quot; class=&quot;headerlink&quot; title=
       
     
     </summary>
@@ -40,8 +40,8 @@
   
   <entry>
     <title>git</title>
-    <link href="http://yoursite.com/2019/10/30/git/"/>
-    <id>http://yoursite.com/2019/10/30/git/</id>
+    <link href="http://yoursite.com/2019/undefined.html"/>
+    <id>http://yoursite.com/2019/undefined.html</id>
     <published>2019-10-30T09:13:28.243Z</published>
     <updated>2019-10-30T10:45:35.820Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>my first blog!</title>
-    <link href="http://yoursite.com/2019/10/24/my-first-blog/"/>
-    <id>http://yoursite.com/2019/10/24/my-first-blog/</id>
+    <link href="http://yoursite.com/2019/undefined.html"/>
+    <id>http://yoursite.com/2019/undefined.html</id>
     <published>2019-10-24T21:13:05.000Z</published>
     <updated>2019-10-25T21:31:35.663Z</updated>
     
@@ -91,8 +91,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/10/24/hello-world/"/>
-    <id>http://yoursite.com/2019/10/24/hello-world/</id>
+    <link href="http://yoursite.com/2019/undefined.html"/>
+    <id>http://yoursite.com/2019/undefined.html</id>
     <published>2019-10-24T21:06:25.799Z</published>
     <updated>2019-10-24T21:06:25.799Z</updated>
     
