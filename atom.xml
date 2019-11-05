@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-05T08:11:37.268Z</updated>
+  <updated>2019-11-05T08:11:49.673Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/51631.html"/>
     <id>http://yoursite.com/2019/51631.html</id>
     <published>2019-10-30T09:29:57.555Z</published>
-    <updated>2019-11-05T08:11:37.268Z</updated>
+    <updated>2019-11-05T08:11:49.673Z</updated>
     
     <content type="html"><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="利用cnpm-下载"><a href="#利用cnpm-下载" class="headerlink" title="利用cnpm 下载"></a>利用cnpm 下载</h2><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p><p>hexo g</p><p>hexo s</p><p>hexo d</p><p>////////</p><p>hexo d -g  一键生成加部署</p><h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>永久唯一链接</p><p>cnpm install hexo-abbrlink –save </p><p>全局配置文件</p><p>permalink: :year/:abbrlink.html </p><p>abbrlink:<br>alg: crc32 # 算法：crc16(default) and crc32<br>rep: hex # 进制：dec(default) and hex </p><h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p><p> ver 显示当前windows系统的版本号 </p><p> winver 弹框显示当前windows系统信息 </p><p>vol 显示当前分区的卷标</p><p> time 显示或设置当前时间 </p><p> date 显示或设置当前日期 </p><p>title 正在做命令行测试 // 修改当前cmd窗口的标题栏文字为正在做命令行测试</p><p> systeminfo 查看当前计算机的综合信息 </p><p> cd  // 显示当前目录 </p><p> cd ..  // 进入父目录 </p><p> dir 显示目录中的内容 </p><p> tree 显示目录结构 </p><p> type 显示文本文件内容 </p><p> more 逐屏的显示文本文件内容 </p>]]></content>
     
@@ -40,10 +40,10 @@
   
   <entry>
     <title>git</title>
-    <link href="http://yoursite.com/2019/undefined.html"/>
-    <id>http://yoursite.com/2019/undefined.html</id>
+    <link href="http://yoursite.com/2019/43167.html"/>
+    <id>http://yoursite.com/2019/43167.html</id>
     <published>2019-10-30T09:13:28.243Z</published>
-    <updated>2019-10-30T10:45:35.820Z</updated>
+    <updated>2019-11-05T08:15:05.769Z</updated>
     
     <content type="html"><![CDATA[<p>在github上创建仓库</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png" alt="image-20191030110237144"></p><p>进入项目文件夹(安装git的前提下)</p><p>git Bash Here</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110534295.png" alt="image-20191030110534295"></p><p>git init</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110655688.png" alt="image-20191030110655688"></p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110717195.png" alt="image-20191030110717195"></p><p>git add .      (add与.有空格)</p><p>git commit  -m” description”</p><p>得到你的SSH 链接</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111003366.png" alt="image-20191030111003366"></p><p>git remote add origin SSH 链接</p><p>如果仓库不是空的</p><p> git pull –rebase origin master </p><p> git push origin master </p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111114293.png" alt="image-20191030111114293"></p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111158990.png" alt="image-20191030111158990"></p><p>如果仓库是空的(先前没有提交过并且也没有markdown文件)</p><p> git push -u origin master </p><p>以后更新只要</p><p> git push origin master </p><p>其他常用操作</p><p>git status</p><p>git log </p><p>git branch -a</p>]]></content>
     
@@ -63,10 +63,10 @@
   
   <entry>
     <title>my first blog!</title>
-    <link href="http://yoursite.com/2019/undefined.html"/>
-    <id>http://yoursite.com/2019/undefined.html</id>
+    <link href="http://yoursite.com/2019/43594.html"/>
+    <id>http://yoursite.com/2019/43594.html</id>
     <published>2019-10-24T21:13:05.000Z</published>
-    <updated>2019-10-25T21:31:35.663Z</updated>
+    <updated>2019-11-05T08:15:05.785Z</updated>
     
     <content type="html"><![CDATA[<ul><li>QQ:122862896</li><li>Wechat:adore-endless</li><li>TEL:15563831078</li><li>E-mail:<a href="mailto:sunzhongtai122@gmail.com" target="_blank" rel="noopener">sunzhongtai122@gmail.com</a></li></ul><p>livere : <a href="mailto:122862896@qq.com" target="_blank" rel="noopener">122862896@qq.com</a> SZT980122livere</p><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>]]></content>
     
@@ -91,10 +91,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/undefined.html"/>
-    <id>http://yoursite.com/2019/undefined.html</id>
+    <link href="http://yoursite.com/2019/16107.html"/>
+    <id>http://yoursite.com/2019/16107.html</id>
     <published>2019-10-24T21:06:25.799Z</published>
-    <updated>2019-10-24T21:06:25.799Z</updated>
+    <updated>2019-11-05T08:15:05.785Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     

@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <title>git</title>
-    <url>/2019/undefined.html</url>
+    <url>/2019/43167.html</url>
     <content><![CDATA[<p>在github上创建仓库</p>
 <p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png" alt="image-20191030110237144"></p>
 <p>进入项目文件夹(安装git的前提下)</p>
@@ -63,7 +63,7 @@
   </entry>
   <entry>
     <title>my first blog!</title>
-    <url>/2019/undefined.html</url>
+    <url>/2019/43594.html</url>
     <content><![CDATA[<ul>
 <li>QQ:122862896</li>
 <li>Wechat:adore-endless</li>
@@ -80,7 +80,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2019/undefined.html</url>
+    <url>/2019/16107.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
