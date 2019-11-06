@@ -86,7 +86,8 @@
 
 
 <p>next配置文件</p>
-<p> rss: /atom.xml</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">rss: /atom.xml</span><br></pre></td></tr></table></figure>
+
 <h3 id="版权信息"><a href="#版权信息" class="headerlink" title="版权信息"></a>版权信息</h3><h3 id="多环境撰文"><a href="#多环境撰文" class="headerlink" title="多环境撰文"></a>多环境撰文</h3><p> <a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="noopener">https://github.com/coneycode/hexo-git-backup</a> </p>
 <h3 id="图床七牛云插件-自动同步到七牛云"><a href="#图床七牛云插件-自动同步到七牛云" class="headerlink" title="图床七牛云插件(自动同步到七牛云)"></a>图床七牛云插件(自动同步到七牛云)</h3><p> <a href="https://github.com/gyk001/hexo-qiniu-sync" target="_blank" rel="noopener">https://github.com/gyk001/hexo-qiniu-sync</a> </p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo qiniu sync</span><br><span class="line">or</span><br><span class="line">hexo qiniu s</span><br></pre></td></tr></table></figure>
@@ -113,7 +114,12 @@
 <h3 id="代码高亮-代码行号"><a href="#代码高亮-代码行号" class="headerlink" title="代码高亮 代码行号"></a>代码高亮 代码行号</h3><p> <a href="https://www.jianshu.com/p/2511a362f5d1" target="_blank" rel="noopener">https://www.jianshu.com/p/2511a362f5d1</a> </p>
 <p>包括多个插件的使用 推荐</p>
 <h3 id="DaoVoice-留言板块"><a href="#DaoVoice-留言板块" class="headerlink" title="DaoVoice 留言板块"></a>DaoVoice 留言板块</h3><p> <a href="http://www.daovoice.io/" target="_blank" rel="noopener">http://www.daovoice.io/</a> </p>
-<h3 id="统计功能"><a href="#统计功能" class="headerlink" title="统计功能"></a>统计功能</h3><h3 id="侧边联系"><a href="#侧边联系" class="headerlink" title="侧边联系"></a>侧边联系</h3><h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
+<h3 id="统计功能-访问量"><a href="#统计功能-访问量" class="headerlink" title="统计功能 访问量"></a>统计功能 访问量</h3><p>站点总访问量</p>
+<p>pv  n-&gt;n</p>
+<p>uv  n-&gt;1</p>
+<p> 每篇文章的访问量</p>
+<p>pv n-&gt;n</p>
+<h3 id="侧边联系"><a href="#侧边联系" class="headerlink" title="侧边联系"></a>侧边联系</h3><h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
 <p> ver 显示当前windows系统的版本号 </p>
 <p> winver 弹框显示当前windows系统信息 </p>
 <p>vol 显示当前分区的卷标</p>
@@ -130,7 +136,6 @@
 <h2 id="获取免费域名-DNS解析"><a href="#获取免费域名-DNS解析" class="headerlink" title="获取免费域名+DNS解析"></a>获取免费域名+DNS解析</h2><p>freenom</p>
 <p> <strong>Your Order Number is: 4623779861</strong> </p>
 <p><a href="https://szt122.com" target="_blank" rel="noopener">https://szt122.com</a></p>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
 ]]></content>
       <categories>
@@ -160,8 +165,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
+<p>  <span id="busuanzi_container_site_uv">本文总阅读量<span id="busuanzi_value_site_uv"></span>次</span></p>
 ]]></content>
       <categories>
         <category>随笔</category>
