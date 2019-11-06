@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>tips</title>
-    <url>/2019/51631.html</url>
-    <content><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="利用cnpm-下载"><a href="#利用cnpm-下载" class="headerlink" title="利用cnpm 下载"></a>利用cnpm 下载</h2><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p>
-<p>hexo g</p>
-<p>hexo s</p>
-<p>hexo d</p>
-<p>////////</p>
-<p>hexo d -g  一键生成加部署</p>
-<h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>永久唯一链接</p>
-<p>cnpm install hexo-abbrlink –save </p>
-<p>全局配置文件</p>
-<p>permalink: :year/:abbrlink.html </p>
-<p>abbrlink:<br>alg: crc32 # 算法：crc16(default) and crc32<br>rep: hex # 进制：dec(default) and hex </p>
-<h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
-<p> ver 显示当前windows系统的版本号 </p>
-<p> winver 弹框显示当前windows系统信息 </p>
-<p>vol 显示当前分区的卷标</p>
-<p> time 显示或设置当前时间 </p>
-<p> date 显示或设置当前日期 </p>
-<p>title 正在做命令行测试 // 修改当前cmd窗口的标题栏文字为正在做命令行测试</p>
-<p> systeminfo 查看当前计算机的综合信息 </p>
-<p> cd  // 显示当前目录 </p>
-<p> cd ..  // 进入父目录 </p>
-<p> dir 显示目录中的内容 </p>
-<p> tree 显示目录结构 </p>
-<p> type 显示文本文件内容 </p>
-<p> more 逐屏的显示文本文件内容 </p>
-]]></content>
-  </entry>
-  <entry>
-    <title>git</title>
+    <title>Git</title>
     <url>/2019/43167.html</url>
     <content><![CDATA[<p>在github上创建仓库</p>
 <p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png" alt="image-20191030110237144"></p>
@@ -60,23 +30,12 @@
 <p>git log </p>
 <p>git branch -a</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>my first blog!</title>
-    <url>/2019/43594.html</url>
-    <content><![CDATA[<ul>
-<li>QQ:122862896</li>
-<li>Wechat:adore-endless</li>
-<li>TEL:15563831078</li>
-<li>E-mail:<a href="mailto:sunzhongtai122@gmail.com" target="_blank" rel="noopener">sunzhongtai122@gmail.com</a></li>
-</ul>
-<p>livere : <a href="mailto:122862896@qq.com" target="_blank" rel="noopener">122862896@qq.com</a> SZT980122livere</p>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
-]]></content>
       <categories>
         <category>随笔</category>
       </categories>
+      <tags>
+        <tag>git</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -95,5 +54,92 @@
 
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>hello</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my first blog!</title>
+    <url>/2019/43594.html</url>
+    <content><![CDATA[<ul>
+<li>QQ:122862896</li>
+<li>Wechat:adore-endless</li>
+<li>TEL:15563831078</li>
+<li>E-mail:<a href="mailto:sunzhongtai122@gmail.com" target="_blank" rel="noopener">sunzhongtai122@gmail.com</a></li>
+</ul>
+<p>livere : <a href="mailto:122862896@qq.com" target="_blank" rel="noopener">122862896@qq.com</a> SZT980122livere</p>
+<img src="http://bucket_name.qiniudn.com/static/images/Taylor">
+
+
+
+
+
+
+
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>first</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Tips</title>
+    <url>/2019/51631.html</url>
+    <content><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="利用cnpm-下载"><a href="#利用cnpm-下载" class="headerlink" title="利用cnpm 下载"></a>利用cnpm 下载</h2><h2 id="Hexo-command"><a href="#Hexo-command" class="headerlink" title="Hexo command"></a>Hexo command</h2><p>hexo clean</p>
+<p>hexo g</p>
+<p>hexo s</p>
+<p>hexo d</p>
+<p>////////</p>
+<p>hexo d -g  一键生成加部署</p>
+<h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>安装Node.js </p>
+<p>Github 注册 SSH key 创建仓库 </p>
+<p>livere 来必力 评论功能</p>
+<h3 id="RSS-功能"><a href="#RSS-功能" class="headerlink" title="RSS 功能"></a>RSS 功能</h3><p>站点配置文件</p>
+<p>plugins: hexo-generate-feed<br>feed:<br>    type: atom<br>    path: atom.xml<br>    limit: 20</p>
+<p>next配置文件</p>
+<p> rss: /atom.xml</p>
+<h3 id="版权信息"><a href="#版权信息" class="headerlink" title="版权信息"></a>版权信息</h3><h3 id="多环境撰文"><a href="#多环境撰文" class="headerlink" title="多环境撰文"></a>多环境撰文</h3><p> <a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="noopener">https://github.com/coneycode/hexo-git-backup</a> </p>
+<h3 id="图床七牛云插件-自动同步到七牛云"><a href="#图床七牛云插件-自动同步到七牛云" class="headerlink" title="图床七牛云插件(自动同步到七牛云)"></a>图床七牛云插件(自动同步到七牛云)</h3><p> <a href="https://github.com/gyk001/hexo-qiniu-sync" target="_blank" rel="noopener">https://github.com/gyk001/hexo-qiniu-sync</a> </p>
+<h3 id="SiteMap"><a href="#SiteMap" class="headerlink" title="SiteMap"></a>SiteMap</h3><p>cnpm install hexo-generator-sitemap –save<br>cnpm install hexo-generator-baidu-sitemap –save </p>
+<p> sitemap:<br>path: sitemap.xml<br>baidusitemap:<br>path: baidusitemap.xml </p>
+<h3 id="蜘蛛协议robots-txt"><a href="#蜘蛛协议robots-txt" class="headerlink" title="蜘蛛协议robots.txt"></a>蜘蛛协议robots.txt</h3><h3 id="永久唯一链接"><a href="#永久唯一链接" class="headerlink" title="永久唯一链接"></a>永久唯一链接</h3><p>cnpm install hexo-abbrlink –save </p>
+<p>permalink: :year/:abbrlink.html<br>abbrlink:<br>    alg: crc32<br>    rep: hex<br>permalink_defaults:</p>
+<h3 id="Local-Search"><a href="#Local-Search" class="headerlink" title="Local Search"></a>Local Search</h3><p>cnpm install hexo-generator-search –save</p>
+<p>cnpm install hexo-generator-searchdb –save</p>
+<p> search:<br>  path: search.xml<br>  field: post<br>  format: html<br>  limit: 10000</p>
+<h3 id="DaoVoice-留言板块"><a href="#DaoVoice-留言板块" class="headerlink" title="DaoVoice 留言板块"></a>DaoVoice 留言板块</h3><p> <a href="http://www.daovoice.io/" target="_blank" rel="noopener">http://www.daovoice.io/</a> </p>
+<h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
+<p> ver 显示当前windows系统的版本号 </p>
+<p> winver 弹框显示当前windows系统信息 </p>
+<p>vol 显示当前分区的卷标</p>
+<p> time 显示或设置当前时间 </p>
+<p> date 显示或设置当前日期 </p>
+<p>title 正在做命令行测试 // 修改当前cmd窗口的标题栏文字为正在做命令行测试</p>
+<p> systeminfo 查看当前计算机的综合信息 </p>
+<p> cd  // 显示当前目录 </p>
+<p> cd ..  // 进入父目录 </p>
+<p> dir 显示目录中的内容 </p>
+<p> tree 显示目录结构 </p>
+<p> type 显示文本文件内容 </p>
+<p> more 逐屏的显示文本文件内容 </p>
+<h2 id="获取免费域名-DNS解析"><a href="#获取免费域名-DNS解析" class="headerlink" title="获取免费域名+DNS解析"></a>获取免费域名+DNS解析</h2><p>freenom</p>
+<p> <strong>Your Order Number is: 4623779861</strong> </p>
+<p><a href="https://szt122.com" target="_blank" rel="noopener">https://szt122.com</a></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>tips</tag>
+      </tags>
   </entry>
 </search>
