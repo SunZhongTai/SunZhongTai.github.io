@@ -89,6 +89,12 @@
 <p> rss: /atom.xml</p>
 <h3 id="版权信息"><a href="#版权信息" class="headerlink" title="版权信息"></a>版权信息</h3><h3 id="多环境撰文"><a href="#多环境撰文" class="headerlink" title="多环境撰文"></a>多环境撰文</h3><p> <a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="noopener">https://github.com/coneycode/hexo-git-backup</a> </p>
 <h3 id="图床七牛云插件-自动同步到七牛云"><a href="#图床七牛云插件-自动同步到七牛云" class="headerlink" title="图床七牛云插件(自动同步到七牛云)"></a>图床七牛云插件(自动同步到七牛云)</h3><p> <a href="https://github.com/gyk001/hexo-qiniu-sync" target="_blank" rel="noopener">https://github.com/gyk001/hexo-qiniu-sync</a> </p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo qiniu sync</span><br></pre></td></tr></table></figure>
+
+
+
+
+
 <h3 id="SiteMap"><a href="#SiteMap" class="headerlink" title="SiteMap"></a>SiteMap</h3><p>cnpm install hexo-generator-sitemap –save<br>cnpm install hexo-generator-baidu-sitemap –save </p>
 <p> sitemap:<br>path: sitemap.xml<br>baidusitemap:<br>path: baidusitemap.xml </p>
 <h3 id="蜘蛛协议robots-txt"><a href="#蜘蛛协议robots-txt" class="headerlink" title="蜘蛛协议robots.txt"></a>蜘蛛协议robots.txt</h3><p> <a href="https://www.jianshu.com/p/e0058573964c" target="_blank" rel="noopener">https://www.jianshu.com/p/e0058573964c</a> </p>
@@ -125,7 +131,6 @@
 <p> <strong>Your Order Number is: 4623779861</strong> </p>
 <p><a href="https://szt122.com" target="_blank" rel="noopener">https://szt122.com</a></p>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
 <p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
 ]]></content>
       <categories>
@@ -145,7 +150,8 @@
 <li>E-mail:<a href="mailto:sunzhongtai122@gmail.com" target="_blank" rel="noopener">sunzhongtai122@gmail.com</a></li>
 </ul>
 <p>livere : <a href="mailto:122862896@qq.com" target="_blank" rel="noopener">122862896@qq.com</a> SZT980122livere</p>
-<img src="http://q0i6ifowm.bkt.clouddn.com/static/images/Taylor">
+<p><a href="http://q0i6ifowm.bkt.clouddn.com/static/images/Taylor_Swift.jpg" target="_blank" rel="noopener">http://q0i6ifowm.bkt.clouddn.com/static/images/Taylor_Swift.jpg</a></p>
+<img src="http://q0i6ifowm.bkt.clouddn.com/static/images/Taylor_Swift.jpg">
 
 
 
