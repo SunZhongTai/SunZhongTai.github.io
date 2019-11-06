@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-05T17:11:16.698Z</updated>
+  <updated>2019-11-05T17:10:51.684Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Git</title>
-    <link href="http://yoursite.com/2019/43167.html"/>
-    <id>http://yoursite.com/2019/43167.html</id>
-    <published>2019-10-24T21:13:05.000Z</published>
-    <updated>2019-11-05T17:11:16.698Z</updated>
-    
-    <content type="html"><![CDATA[<p>在github上创建仓库</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png" alt="image-20191030110237144"></p><p>进入项目文件夹(安装git的前提下)</p><p>git Bash Here</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110534295.png" alt="image-20191030110534295"></p><p>git init</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110655688.png" alt="image-20191030110655688"></p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110717195.png" alt="image-20191030110717195"></p><p>git add .      (add与.有空格)</p><p>git commit  -m” description”</p><p>得到你的SSH 链接</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111003366.png" alt="image-20191030111003366"></p><p>git remote add origin SSH 链接</p><p>如果仓库不是空的</p><p> git pull –rebase origin master </p><p> git push origin master </p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111114293.png" alt="image-20191030111114293"></p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111158990.png" alt="image-20191030111158990"></p><p>如果仓库是空的(先前没有提交过并且也没有markdown文件)</p><p> git push -u origin master </p><p>以后更新只要</p><p> git push origin master </p><p>其他常用操作</p><p>git status</p><p>git log </p><p>git branch -a</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;在github上创建仓库&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png&quot; alt=&quot;im
-      
-    
-    </summary>
-    
-    
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="git" scheme="http://yoursite.com/tags/git/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -74,7 +47,7 @@
     <link href="http://yoursite.com/2019/43594.html"/>
     <id>http://yoursite.com/2019/43594.html</id>
     <published>2019-10-24T21:13:05.000Z</published>
-    <updated>2019-11-06T14:42:31.081Z</updated>
+    <updated>2019-11-06T14:52:49.446Z</updated>
     
     <content type="html"><![CDATA[<ul><li>QQ:122862896</li><li>Wechat:adore-endless</li><li>TEL:15563831078</li><li>E-mail:<a href="mailto:sunzhongtai122@gmail.com" target="_blank" rel="noopener">sunzhongtai122@gmail.com</a></li></ul><p>livere : <a href="mailto:122862896@qq.com" target="_blank" rel="noopener">122862896@qq.com</a> SZT980122livere</p><img src="http://bucket_name.qiniudn.com/static/images/Taylor"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><p>  <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>]]></content>
     
@@ -122,6 +95,33 @@
     
     
       <category term="tips" scheme="http://yoursite.com/tags/tips/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git</title>
+    <link href="http://yoursite.com/2019/43167.html"/>
+    <id>http://yoursite.com/2019/43167.html</id>
+    <published>2019-10-24T21:13:05.000Z</published>
+    <updated>2019-11-05T17:11:16.698Z</updated>
+    
+    <content type="html"><![CDATA[<p>在github上创建仓库</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png" alt="image-20191030110237144"></p><p>进入项目文件夹(安装git的前提下)</p><p>git Bash Here</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110534295.png" alt="image-20191030110534295"></p><p>git init</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110655688.png" alt="image-20191030110655688"></p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110717195.png" alt="image-20191030110717195"></p><p>git add .      (add与.有空格)</p><p>git commit  -m” description”</p><p>得到你的SSH 链接</p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111003366.png" alt="image-20191030111003366"></p><p>git remote add origin SSH 链接</p><p>如果仓库不是空的</p><p> git pull –rebase origin master </p><p> git push origin master </p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111114293.png" alt="image-20191030111114293"></p><p><img src="C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030111158990.png" alt="image-20191030111158990"></p><p>如果仓库是空的(先前没有提交过并且也没有markdown文件)</p><p> git push -u origin master </p><p>以后更新只要</p><p> git push origin master </p><p>其他常用操作</p><p>git status</p><p>git log </p><p>git branch -a</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在github上创建仓库&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191030110237144.png&quot; alt=&quot;im
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
     
   </entry>
   
