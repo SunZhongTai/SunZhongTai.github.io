@@ -70,6 +70,9 @@
 <p>hexo d</p>
 <p>////////</p>
 <p>hexo d -g  一键生成加部署</p>
+<p>///////</p>
+<p>hexo  package.josn</p>
+<p>查看安装的插件</p>
 <h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>安装Node.js </p>
 <p>Github 注册 SSH key 创建仓库 </p>
 <p>livere 来必力 评论功能</p>
@@ -86,6 +89,8 @@
 <h3 id="Local-Search"><a href="#Local-Search" class="headerlink" title="Local Search"></a>Local Search</h3><p>cnpm install hexo-generator-search –save</p>
 <p>cnpm install hexo-generator-searchdb –save</p>
 <p> search:<br>  path: search.xml<br>  field: post<br>  format: html<br>  limit: 10000</p>
+<h3 id="代码高亮-代码行号"><a href="#代码高亮-代码行号" class="headerlink" title="代码高亮 代码行号"></a>代码高亮 代码行号</h3><p> <a href="https://www.jianshu.com/p/2511a362f5d1" target="_blank" rel="noopener">https://www.jianshu.com/p/2511a362f5d1</a> </p>
+<p>包括多个插件的使用 推荐</p>
 <h3 id="DaoVoice-留言板块"><a href="#DaoVoice-留言板块" class="headerlink" title="DaoVoice 留言板块"></a>DaoVoice 留言板块</h3><p> <a href="http://www.daovoice.io/" target="_blank" rel="noopener">http://www.daovoice.io/</a> </p>
 <h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
 <p> ver 显示当前windows系统的版本号 </p>
