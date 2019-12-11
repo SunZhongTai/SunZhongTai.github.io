@@ -4,27 +4,35 @@
     <title>learn</title>
     <url>/2019/11/28/learn/</url>
     <content><![CDATA[<p>书籍推荐   机器学习实战</p>
-<img src="E:\blog\qiniuimg\images\image-20191128115827725-1576101255831.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128115827725.png" style="zoom: 67%;" />
+
+
 
 <p>10 表示要有10个分类</p>
-<img src="E:\blog\qiniuimg\images\image-20191128120747340-1576101309754.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128120747340.png" style="zoom:80%;" />
 
 
 
 
 
 <p>3表示要有3个分类</p>
-<img src="E:\blog\qiniuimg\images\image-20191128120540079-1576101337294.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128120540079.png" style="zoom:80%;" />
+
+
 
 
 
 <p>1为容忍度 如果小于1 则表示分类正确，误差在范围之内</p>
-<img src="E:\blog\qiniuimg\images\image-20191128121405184-1576101383772.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128121405184.png" style="zoom:80%;" />
+
+
 
 
 
 <p>将得分函数的值转化为概率 (0&lt;p&lt;1)   逻辑回归</p>
-<img src="E:\blog\qiniuimg\images\image-20191128122253975-1576101414262.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128122253975.png" style="zoom:80%;" />
+
+
 
 
 
@@ -39,8 +47,8 @@
 <li>前向传播</li>
 </ul>
 <ul>
-<li>反向传播</li>
-<li><img src="E:\blog\qiniuimg\images\image-20191128182143311-1576101579246.png" style="zoom:50%;" />
+<li><p>反向传播</p>
+<img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128182143311.png" style="zoom:80%;" />
 
 
 
