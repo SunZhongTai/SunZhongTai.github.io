@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunzhongtai.github.io/2019/my-first-blog/</loc>
+    
+    <lastmod>2019-12-13T23:12:37.748Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunzhongtai.github.io/2019/movie-music/</loc>
     
     <lastmod>2019-12-13T22:55:55.281Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://sunzhongtai.github.io/tags/index.html</loc>
     
     <lastmod>2019-12-13T00:50:47.813Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunzhongtai.github.io/2019/my-first-blog/</loc>
-    
-    <lastmod>2019-12-13T00:49:20.495Z</lastmod>
     
   </url>
   
