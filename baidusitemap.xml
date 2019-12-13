@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/2019/11/28/learn/</loc>
+    <loc>https://sunzhongtai.github.io/2019/movie-music/</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>  <url>
+    <loc>https://sunzhongtai.github.io/2019/my-first-blog/</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>  <url>
+    <loc>https://sunzhongtai.github.io/2019/learn/</loc>
+    <lastmod>2019-12-13</lastmod>
+  </url>  <url>
+    <loc>https://sunzhongtai.github.io/2019/tips/</loc>
+    <lastmod>2019-12-12</lastmod>
+  </url>  <url>
+    <loc>https://sunzhongtai.github.io/2019/git/</loc>
     <lastmod>2019-12-11</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2019/10/24/tips/</loc>
-    <lastmod>2019-12-11</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/10/24/git/</loc>
-    <lastmod>2019-12-11</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/10/24/my-first-blog/</loc>
-    <lastmod>2019-12-11</lastmod>
-  </url>  <url>
-    <loc>http://yoursite.com/2019/10/24/hello-world/</loc>
+    <loc>https://sunzhongtai.github.io/2019/hello-world/</loc>
     <lastmod>2019-11-06</lastmod>
   </url>
 </urlset>

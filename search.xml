@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>learn</title>
-    <url>/2019/11/28/learn/</url>
+    <url>/2019/learn/</url>
     <content><![CDATA[<p>书籍推荐   机器学习实战</p>
 <img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191128115827725.png" style="zoom: 67%;" />
 
@@ -99,10 +99,77 @@
 <figure class="highlight python"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np </span><br><span class="line"><span class="keyword">import</span> tensorflow <span class="keyword">as</span> tf</span><br><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line">num_points=<span class="number">1000</span></span><br><span class="line">vectors_set=[]</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> range(num_points):</span><br><span class="line">    x1=np.random.normal(<span class="number">0.0</span>,<span class="number">0.55</span>)</span><br><span class="line">    y1=x1*<span class="number">0.1</span>+<span class="number">0.3</span>+np.random.normal(<span class="number">0.0</span>,<span class="number">0.03</span>)</span><br><span class="line">    vectors_set.append([x1,y1])</span><br><span class="line">    </span><br><span class="line">    x_data=[v[<span class="number">0</span>] <span class="keyword">for</span> v <span class="keyword">in</span> vectors_set]</span><br><span class="line">    y_data=[v[<span class="number">1</span>] <span class="keyword">for</span> v <span class="keyword">in</span> vectors_set]</span><br><span class="line">    </span><br><span class="line">    plt.scatter(x_data,y_data,c=<span class="string">'r'</span>)</span><br><span class="line">    plt.show()</span><br></pre></td></tr></table></figure>
 
 ]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>learn</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>movie$music</title>
+    <url>/2019/movie-music/</url>
+    <content><![CDATA[<p>ex</p>
+<p>hip</p>
+<h3 id="lovely"><a href="#lovely" class="headerlink" title="lovely"></a>lovely</h3><p>I am you</p>
+<h3 id="rock"><a href="#rock" class="headerlink" title="rock"></a>rock</h3><h3 id="hippop"><a href="#hippop" class="headerlink" title="hippop"></a>hippop</h3><p>马龙 : circles / take what you want   / wow /psycho /better now</p>
+<p>tik tok /钱婆<br>panic   : high hopes<br>bili elis : all the good girl go to hell<br>jornas brother: only human </p>
+<p>old town road<br>马龙 : sunflower<br>traviot scoot : highest in the room<br>sweet but psycho </p>
+<p>can’t  hold us </p>
+<p>ferrari</p>
+<h3 id="country"><a href="#country" class="headerlink" title="country"></a>country</h3><p>the sound of silent</p>
+<p>need you now </p>
+<p>new soul </p>
+<p>if i die young </p>
+<p>five hundred miles</p>
+<p>take me home country roads</p>
+<p>traveling  light </p>
+<p>you are my sunshine </p>
+<h3 id="Rhythm-point"><a href="#Rhythm-point" class="headerlink" title="Rhythm point"></a>Rhythm point</h3><p>all time  low</p>
+<p>drag me down </p>
+<p>somebody that i used to know /</p>
+<p>R&amp;B all night </p>
+<p>we are young </p>
+<p>khalid /talk</p>
+<hr>
+<p>fancy  洗茶</p>
+<p>卡妹  havana Seriona </p>
+<p>打雷姐 la la land/ summertime sadness</p>
+<p>猴西 halsey  /without me </p>
+<p>Lorde  palance place /Royals </p>
+<p>日 love the way you lie </p>
+<p>/鳖/卡/</p>
+<p>阿呆/ someone like you  /rolling in the deep</p>
+<p>ed sheeran /perfect </p>
+<p>果子狸/ firework /ET</p>
+<p>蹲妹/ call me maybe </p>
+<p>AL/</p>
+<hr>
+<p>侃爷</p>
+<p>drake</p>
+<p>scoot</p>
+<hr>
+<p>onerepublic counting stars</p>
+<p>imagine dragons </p>
+<p>coldplay </p>
+<p>maroon 5 /one more night  /animals/moves like jagger </p>
+<hr>
+<p>cp</p>
+<p>萌德</p>
+<p>JB</p>
+<p>TS</p>
+<hr>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>mm</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/2019/10/24/hello-world/</url>
+    <url>/2019/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
@@ -126,7 +193,7 @@
   </entry>
   <entry>
     <title>Git</title>
-    <url>/2019/10/24/git/</url>
+    <url>/2019/git/</url>
     <content><![CDATA[<p>在github上创建仓库</p>
 <img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/image-20191030110237144.png" style="zoom: 80%;" />
 
@@ -175,9 +242,15 @@
   </entry>
   <entry>
     <title>Tips</title>
-    <url>/2019/10/24/tips/</url>
+    <url>/2019/tips/</url>
     <content><![CDATA[<h1 id="TIPS"><a href="#TIPS" class="headerlink" title="TIPS"></a>TIPS</h1><h2 id="cnpm-下载"><a href="#cnpm-下载" class="headerlink" title="cnpm 下载"></a>cnpm 下载</h2><p>npm-&gt;cnpm </p>
+<figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">npm <span class="keyword">install</span> <span class="comment">--save</span></span><br></pre></td></tr></table></figure>
+
+
+
 <h2 id="typora-markdown"><a href="#typora-markdown" class="headerlink" title="typora markdown"></a>typora markdown</h2><p>yaml front matter</p>
+<p>YAML 格式校验器 </p>
+<p><a href="https://codebeautify.org/yaml-validator" target="_blank" rel="noopener">https://codebeautify.org/yaml-validator</a></p>
 <p>文章顶部信息</p>
 <p>:emoji: </p>
 <p>表情自动提示</p>
@@ -254,6 +327,8 @@
 <h2 id="Hexo-Next"><a href="#Hexo-Next" class="headerlink" title="Hexo+Next"></a>Hexo+Next</h2><p>安装Node.js </p>
 <p>Github 注册 SSH key 创建仓库 </p>
 <p>livere 来必力 评论功能</p>
+<p>hexo  new  “” </p>
+<p>新建博客</p>
 <h3 id="RSS-功能"><a href="#RSS-功能" class="headerlink" title="RSS 功能"></a>RSS 功能</h3><p>站点配置文件</p>
 <figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">plugins:</span> <span class="string">hexo-generate-feed</span></span><br><span class="line"><span class="attr">feed:</span> </span><br><span class="line"><span class="attr">    type:</span> <span class="string">atom</span></span><br><span class="line"><span class="attr">    path:</span> <span class="string">atom.xml</span></span><br><span class="line"><span class="attr">    limit:</span> <span class="number">20</span></span><br></pre></td></tr></table></figure>
 
@@ -263,6 +338,9 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">rss: /atom.xml</span><br></pre></td></tr></table></figure>
 
 <h3 id="版权信息"><a href="#版权信息" class="headerlink" title="版权信息"></a>版权信息</h3><h3 id="多环境撰文"><a href="#多环境撰文" class="headerlink" title="多环境撰文"></a>多环境撰文</h3><p> <a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="noopener">https://github.com/coneycode/hexo-git-backup</a> </p>
+<h3 id="博客加密插件"><a href="#博客加密插件" class="headerlink" title="博客加密插件"></a>博客加密插件</h3><p><a href="https://mikecoder.cn/post/147/" target="_blank" rel="noopener">https://mikecoder.cn/post/147/</a></p>
+<p><a href="https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md" target="_blank" rel="noopener">https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md</a></p>
+<p><a href="https://github.com/brix/crypto-js" target="_blank" rel="noopener">https://github.com/brix/crypto-js</a></p>
 <h3 id="PicGo-图床"><a href="#PicGo-图床" class="headerlink" title="PicGo 图床"></a>PicGo 图床</h3><p><a href="https://github.com/Molunerfinn/PicGo" target="_blank" rel="noopener">https://github.com/Molunerfinn/PicGo</a></p>
 <p><a href="https://www.cnblogs.com/KongkOngL/p/11060219.html" target="_blank" rel="noopener">https://www.cnblogs.com/KongkOngL/p/11060219.html</a></p>
 <p><a href="https://www.jianshu.com/p/9d91355e8418" target="_blank" rel="noopener">https://www.jianshu.com/p/9d91355e8418</a></p>
@@ -421,18 +499,17 @@
   </entry>
   <entry>
     <title>my first blog!</title>
-    <url>/2019/10/24/my-first-blog/</url>
-    <content><![CDATA[<ul>
+    <url>/2019/my-first-blog/</url>
+    <content><![CDATA[<p>222</p>
+<a id="more"></a>
+
+<ul>
 <li>QQ:122862896</li>
 <li>Wechat:adore-endless</li>
 <li>TEL:15563831078</li>
 <li>E-mail:<a href="mailto:sunzhongtai122@gmail.com" target="_blank" rel="noopener">sunzhongtai122@gmail.com</a></li>
 </ul>
 <p>livere : <a href="mailto:122862896@qq.com" target="_blank" rel="noopener">122862896@qq.com</a> SZT980122livere</p>
-<img src="http://q0i6ifowm.bkt.clouddn.com/static/images/Taylor_Swift.jpg">
-
-
-
 <img src="https://raw.githubusercontent.com/SunZhongTai/Picture/master/Taylor%20Swift.jpg" style="zoom:67%;" />
 
 

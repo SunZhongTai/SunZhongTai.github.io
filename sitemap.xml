@@ -2,77 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/11/28/learn/</loc>
+    <loc>https://sunzhongtai.github.io/2019/movie-music/</loc>
     
-    <lastmod>2019-12-11T23:27:04.385Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/10/24/tips/</loc>
-    
-    <lastmod>2019-12-11T23:24:32.032Z</lastmod>
+    <lastmod>2019-12-13T22:55:55.281Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/10/24/git/</loc>
+    <loc>https://sunzhongtai.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-12-13T00:50:47.813Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunzhongtai.github.io/2019/my-first-blog/</loc>
+    
+    <lastmod>2019-12-13T00:49:20.495Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunzhongtai.github.io/2019/learn/</loc>
+    
+    <lastmod>2019-12-13T00:06:17.763Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunzhongtai.github.io/2019/tips/</loc>
+    
+    <lastmod>2019-12-12T23:59:40.468Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunzhongtai.github.io/2019/git/</loc>
     
     <lastmod>2019-12-11T22:18:55.037Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/10/24/my-first-blog/</loc>
-    
-    <lastmod>2019-12-11T21:51:50.316Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/10/24/hello-world/</loc>
+    <loc>https://sunzhongtai.github.io/2019/hello-world/</loc>
     
     <lastmod>2019-11-06T20:56:12.327Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2019-11-06T17:52:07.924Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/schedule/index.html</loc>
+    <loc>https://sunzhongtai.github.io/schedule/index.html</loc>
     
     <lastmod>2019-11-06T17:51:49.350Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>https://sunzhongtai.github.io/categories/index.html</loc>
     
     <lastmod>2019-11-06T17:51:27.396Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/archives/index.html</loc>
+    <loc>https://sunzhongtai.github.io/archives/index.html</loc>
     
     <lastmod>2019-11-06T17:51:07.594Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>https://sunzhongtai.github.io/about/index.html</loc>
     
     <lastmod>2019-11-06T17:50:49.615Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/404.html</loc>
+    <loc>https://sunzhongtai.github.io/404.html</loc>
     
     <lastmod>2019-10-26T08:03:19.804Z</lastmod>
     
