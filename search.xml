@@ -352,7 +352,7 @@
 <p>next配置文件</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">rss: /atom.xml</span><br></pre></td></tr></table></figure>
 
-<h3 id="版权信息"><a href="#版权信息" class="headerlink" title="版权信息"></a>版权信息</h3><h3 id="DaoVoice-留言板块"><a href="#DaoVoice-留言板块" class="headerlink" title="DaoVoice 留言板块"></a>DaoVoice 留言板块</h3><p> <a href="http://www.daovoice.io/" target="_blank" rel="noopener">http://www.daovoice.io/</a> </p>
+<h3 id="版权信息"><a href="#版权信息" class="headerlink" title="版权信息"></a>版权信息</h3><h3 id="点击特效"><a href="#点击特效" class="headerlink" title="点击特效"></a>点击特效</h3><h3 id="DaoVoice-留言板块"><a href="#DaoVoice-留言板块" class="headerlink" title="DaoVoice 留言板块"></a>DaoVoice 留言板块</h3><p> <a href="http://www.daovoice.io/" target="_blank" rel="noopener">http://www.daovoice.io/</a> </p>
 <p>将回复按钮和回到顶部按钮区别开</p>
 <h3 id="Valine-评论"><a href="#Valine-评论" class="headerlink" title="Valine  评论"></a>Valine  评论</h3><p><a href="https://valine.js.org/" target="_blank" rel="noopener">https://valine.js.org/</a></p>
 <h3 id="多环境撰文"><a href="#多环境撰文" class="headerlink" title="多环境撰文"></a>多环境撰文</h3><p> <a href="https://github.com/coneycode/hexo-git-backup" target="_blank" rel="noopener">https://github.com/coneycode/hexo-git-backup</a> </p>
