@@ -399,7 +399,11 @@
 
 
 
-<h3 id="侧边联系"><a href="#侧边联系" class="headerlink" title="侧边联系"></a>侧边联系</h3><h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
+
+
+
+
+<h2 id="Windows-command"><a href="#Windows-command" class="headerlink" title="Windows command"></a>Windows command</h2><p>cls  清屏</p>
 <p> ver 显示当前windows系统的版本号 </p>
 <p> winver 弹框显示当前windows系统信息 </p>
 <p>vol 显示当前分区的卷标</p>
